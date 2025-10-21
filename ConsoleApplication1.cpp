@@ -5,7 +5,8 @@
 
 int main()
 {
-    std::cout << "Hello World! all people\n";
+	int a = 2, b = 3;
+	std::cout << a + b;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
